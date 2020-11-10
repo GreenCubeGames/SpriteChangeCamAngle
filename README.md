@@ -6,3 +6,5 @@ This is a simple script, that change the sprite, by object and camera angle, lik
 -In my project I change the gameobject when consider an different angle, but a good way to do it too is changing the layer of animation on character.
 
 -Amazing for RPG, Tactic Games, even Board Games.
+
+-The focus of this project is just the sprite change, so the camera is very simple, with A and D the user can rotate it, but is up to you to make different cameras to make a game.
