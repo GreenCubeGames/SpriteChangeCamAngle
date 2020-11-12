@@ -1,6 +1,6 @@
 # ScreenShots
 
-[13247675-10154198855181796-3971611160329698846-o.jpg](https://postimg.cc/jWSvz95V)
+[![13247675-10154198855181796-3971611160329698846-o.jpg](https://i.postimg.cc/hG9wqRRG/13247675-10154198855181796-3971611160329698846-o.jpg)](https://postimg.cc/jWSvz95V)
 
 # SpriteChangeCamAngle
 This is a simple script, that change the sprite, by object and camera angle, like FF tactics, and other tactics, rpgs, and simple 2d characters with 3d level. Im using with my game called "Monsters Mall" but is a cool thing to release as free asset for anyone that want to do a game like this, some kind of isometric 3d with 2d characters, I LOVE this kind of graphics, when mix 2d characters with 3d level, like guardian heroes, ff tactics etc.
